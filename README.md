@@ -6,14 +6,14 @@
     <a href="https://www.linkedin.com/in/paul-cosmin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>    
+     <a href="https://www.goodreads.com/user/show/130496502-paul-petrila">
+      <img src="https://img.shields.io/badge/Goodreads-gray?style=for-the-badge&logo=goodreads&logoColor=white" alt="goodreads Badge"/>
+    </a>  
     <a href="https://www.facebook.com/paulcosmin.petrila">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
     <a href="https://open.spotify.com/user/n9sqyvkuvyc55du8bkgb9gi1i?si=dceb62e3d9094f78">
-      <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
     </a>
     <h1>
       hey there
