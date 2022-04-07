@@ -23,13 +23,14 @@
 </div>
 
 
-<div align="center"> 
-  <img src="/Resources/Aspiring%20Software%20Engineer.png">
+<div align="center"  > 
+  <img src="/Resources/Self-taught.png" >
 </div>
 
 --- 
 
 
+  
 ### 👨‍💻 About Me:
 
 - 👷‍♂️	2nd Year student at the Faculty of Automatic Control and Computer Science 
@@ -37,6 +38,7 @@
 - 🛰️ Space Enthusiast 
 - 🖥️ Tech Bro™️ 
 - ⚡ Aspiring webdeveloper 
+  
 
 ---
 
@@ -65,6 +67,7 @@
 ### 💯 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pauwul&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pauwul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
