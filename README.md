@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
     </a>
     <h1>
-      hey there
+      Hello, World! This is me. 
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
   </div>
@@ -24,7 +24,7 @@
 
 
 <div align="center"  > 
-  <img src="/Resources/20220407_211234_0000.png" >
+  <img src="/Resources/Selfmade.png" >
 </div>
 
 --- 
@@ -66,12 +66,26 @@
 
 ### 💯 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pauwul&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pauwul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=Pauwul&theme=dark&background=000000" width=400px>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauwul&layout=compact&theme=radical" width=400px>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pauwul&show_icons=true&theme=radical "width=400px>
+</div>
 
+---
+
+### 💥 My latest and gratest:
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=p5_Projects&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=University_Universe&theme=radical" />
+</a>
+</div>
 
 
 
