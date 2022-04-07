@@ -71,20 +71,21 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=Pauwul&theme=dark&background=000000" width=400px>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauwul&layout=compact&theme=radical" width=400px>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pauwul&show_icons=true&theme=radical "width=400px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauwul&layout=compact&theme=radical" width=400px height=200px>
+  
 </div>
 
 ---
 
 ### 💥 My latest and gratest:
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=p5_Projects&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=University_Universe&theme=radical" />
-</a>
+  <a href="https://github.com/Pauwul/p5_Projects">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=p5_Projects&theme=radical" width=400px height=200px>
+  </a>
+  <a href="https://github.com/Pauwul/University_Universe">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=University_Universe&theme=radical" width=400px height=200px>
+  </a>
+
 </div>
 
 
