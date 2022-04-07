@@ -24,7 +24,7 @@
 
 
 <div align="center"  > 
-  <img src="/Resources/Self-taught.png" >
+  <img src="/Resources/20220407_211234_0000.png" >
 </div>
 
 --- 
