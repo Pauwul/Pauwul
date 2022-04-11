@@ -45,7 +45,7 @@
 ### 🔧 Languages and Tools:
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="ElectronJS" **alt="ElectronJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
@@ -69,9 +69,9 @@
 
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=Pauwul&theme=dark&background=000000" width=400px>
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=Pauwul&theme=dark&background=000000" width=500px height=200px>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauwul&layout=compact&theme=radical" width=400px height=200px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauwul&layout=compact&theme=radical" width=500px height=200px>
   
 </div>
 
@@ -79,28 +79,17 @@
 
 ### 💥 My latest and gratest:
 <div align="center">
-  <a href="https://github.com/Pauwul/p5_Projects">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=p5_Projects&theme=radical" width=400px height=200px>
-  </a>
-  <a href="https://github.com/Pauwul/University_Universe">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=University_Universe&theme=radical" width=400px height=200px>
-  </a>
+  <div align="center">
+    <a href="https://github.com/Pauwul/p5_Projects">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=p5_Projects&theme=radical" width=500px height=200px>
+    </a>
+  </div>
+  
+  <div>
+    <a href="https://github.com/Pauwul/University_Universe">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=University_Universe&theme=radical" width=500px height=200px>
+    </a>
+  </div>
 
 </div>
 
-
-
-<!--
-**Pauwul/Pauwul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
