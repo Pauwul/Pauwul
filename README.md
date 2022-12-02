@@ -1,7 +1,5 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
-  
+<div id="header" align="center">  
   <div id="badges">
     <a href="https://www.linkedin.com/in/paul-cosmin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,11 +31,8 @@
   
 ### 👨‍💻 About Me:
 
-- 👷‍♂️	2nd Year student at the Faculty of Automatic Control and Computer Science 
-- 📚 Math and Physics Nerd (Really into fractals lately)
-- 🛰️ Space Enthusiast 
-- 🖥️ Tech Bro™️ 
-- ⚡ Aspiring webdeveloper 
+- 👷‍♂️	3rd Year student at the Faculty of Automatic Control and Computer Science 
+- ⚡ Passionate webdeveloper @[Adservio](https://www.adservio.ro/ro). In my spare time I like to play around with web technologies and frameworks.
   
 
 ---
@@ -77,19 +72,6 @@
 
 ---
 
-### 💥 My latest and gratest:
-<div align="center">
-  <div align="center">
-    <a href="https://github.com/Pauwul/p5_Projects">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=p5_Projects&theme=radical" width=500px height=200px>
-    </a>
-  </div>
-  
-  <div>
-    <a href="https://github.com/Pauwul/University_Universe">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pauwul&repo=University_Universe&theme=radical" width=500px height=200px>
-    </a>
-  </div>
 
 </div>
 
