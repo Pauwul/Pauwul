@@ -28,7 +28,6 @@
 ### 👨‍💻 About Me:
 
 - 👷‍♂️	4th Year student at the Faculty of Automatic Control and Computer Science 
-- ⚡ Passionate webdeveloper @[Adservio](https://www.adservio.ro/ro). In my spare time I like to play around with web technologies and frameworks.
   
 ---
 ### 🖥️ Languages and Tools I use at work:
